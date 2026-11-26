@@ -6,3 +6,7 @@ def subtract(a, b):
 
 def multiply(a, b):
     return a * b
+
+
+def triple(x):
+    return x * 3
