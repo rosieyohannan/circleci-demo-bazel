@@ -6,3 +6,7 @@ def truncate(s, length):
 
 def repeat(s, n):
     return s * n
+
+
+def shout(s):
+    return s.upper() + "!"
